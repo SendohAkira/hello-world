@@ -1,2 +1,3 @@
 # hello-world
-This Sendoh's GtiHub
+This is Sendoh's GtiHub. 
+You will learn a lot here.
